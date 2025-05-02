@@ -1,0 +1,4 @@
+numpy>=1.19.0
+scipy>=1.5.0
+scikit-image>=0.17.2
+ursina>=5.0.0
