@@ -125,9 +125,7 @@ TadsWowExplorer/
 
 ## 🌍 Get Involved
 
-Want to tweak the field equation? Add a new topology? Visualize the FFT of the wavefronts? Feel free to fork, experiment, and open issues or pull requests.
-
-This is just the beginning.
+Want to tweak the field equation? Add a new topology? Visualize the FFT of the wavefronts? Feel free to fork.
 
 ---
 
@@ -137,12 +135,4 @@ MIT License — Free to explore, modify, and share.
 
 ---
 
-## 🧙‍♂️ Created by
-
-**Antti Luode**  
-[GitHub Profile](https://github.com/anttiluode)  
-_A dreamer of fields and fractals._
-
----
-
-> “The wave is not in the field — the field *is* the wave.”
+> “The wave is not in the field — the field *is* the wave.” (Ah chatgpt) 
