@@ -1,6 +1,8 @@
 
 # TADS/WoW Explorer: Emergent Reality Simulation
 
+(NOTE ! ARROWS RIGHT AND LET YOU EXPLORE THE SURFACES TOO WHILE IN PAUSE MODE!) 
+
 ![Snowflake Visualization](snowflake.png)
 
 Welcome to **TADS/WoW Explorer**, a speculative physics simulator and visual exploration tool built on the idea that spacetime, particles, and even quantum effects may **emerge** from deeper wave-field dynamics. This 3D Python simulation lets you play with complex, non-linear field equations and observe how intricate structures arise from minimal assumptions.
