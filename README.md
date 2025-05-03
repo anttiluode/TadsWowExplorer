@@ -3,6 +3,15 @@
 
 (NOTE ! ARROWS RIGHT AND LET YOU EXPLORE THE SURFACES TOO WHILE IN PAUSE MODE!) 
 
+EDIT: I added Enhanced_magic_box.py that shows second order fractality (stable atom like particles born out of the particle system) 
+
+(Enhanced magic box) 
+
+It starts with p after you have chosen energy containment scaffolding type. After that you have to fly out with right mouse button down + w
+to look at the growing structure. good idea to pause again soon after starting the sim so you can look at the developing structure. 
+
+The second order (atom like) structure can be seen with V. 
+
 ![Snowflake Visualization](snowflake.png)
 
 Welcome to **TADS/WoW Explorer**, a speculative physics simulator and visual exploration tool built on the idea that spacetime, particles, and even quantum effects may **emerge** from deeper wave-field dynamics. This 3D Python simulation lets you play with complex, non-linear field equations and observe how intricate structures arise from minimal assumptions.
